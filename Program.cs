@@ -51,10 +51,10 @@
         Console.WriteLine(output);
       
       
-       SimpleDataBase<int> data = new SimpleDataBase<int>();
-        data.AddNewData(12);
-        data.AddNewData(34);
-        data.AddNewData(56);
-        data.PrintAllData();
+       SimpleDataBase<int> data1 = new SimpleDataBase<int>();
+        data1.AddNewData(12);
+        data1.AddNewData(34);
+        data1.AddNewData(56);
+        data1.PrintAllData();
     }
 }
