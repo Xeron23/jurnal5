@@ -52,9 +52,9 @@
       
       
        SimpleDataBase<int> data1 = new SimpleDataBase<int>();
-        data1.AddNewData(12);
-        data1.AddNewData(34);
-        data1.AddNewData(56);
+        data1.AddNewData(10);
+        data1.AddNewData(30);
+        data1.AddNewData(22);
         data1.PrintAllData();
     }
 }
